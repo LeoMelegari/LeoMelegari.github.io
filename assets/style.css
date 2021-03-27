@@ -136,6 +136,13 @@ footer nav .redes-sociais li a:hover img{
 main .coluna {
     padding: 30px;
 }
+
+main .coluna-direita{
+    padding-top: 0;
+}
+main .coluna-esquerda{
+    padding-bottom: 0;
+}
 main .coluna section {
     border-bottom: 1px solid #d4e9ff;
     margin: 0 0 20px;
